@@ -1,0 +1,554 @@
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Carosel */
+.carousel-inner{
+    margin-top: 60px;
+}
+img{
+    width: 100%;
+}
+.threed-card-img{
+    width: 100px;
+}
+.even-section .card.qr-link:hover{
+    transition: 0.1s all ease-in-out;
+    /* background-color: #8D51E7; */
+    color: #000000!important;
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+    /* border: 1px solid #8D51E7; */
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.bg-img {
+    position: relative;
+    background-attachment: fixed;
+    /* background-color: rgba(0,0,0,0.5); */
+}
+
+.bg-img::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Black overlay with 50% opacity */
+    z-index: 1;
+}
+.bg-img .content {
+    position: relative;
+    z-index: 2;
+}
+
+/* Firefox */
+body.user .card-user-price, body.vendor .card-vendor-price{
+    display: block!important;
+}
+body.user .card-vendor-price, body.vendor .card-user-price{
+    display: none;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+.passcode-wrapper{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.passcode-wrapper input{
+    width: 50px;
+    height: 50px;
+}
+.qr-page{
+    display: none;
+    min-height: 100vh;
+}
+.accountbtn, .loginbtn{
+    display: none;
+}
+.qr-page.active{
+    display: block;
+} 
+[active-page="login"], [active-page="register"], [active-page="vendor"], div.navbar,[active-page="otp"]{
+    background: #015778;
+    box-shadow: 0px 0px 20px rgb(0 0 0 / 20%);
+}
+body[active-page="login"] nav, body[active-page="register"] nav, body[active-page="vendor"] nav, body[active-page="otp"] nav{
+    display: none;
+}
+.accountbtn{
+    background: #8D51E7;
+    color: #ffffff;
+    border: 1px solid #8d51e7;
+    border-radius: 20px;
+}
+/* .accountbtn:hover{
+    background: #DAA520;
+} */
+.userTypeElement{
+    font-size: 14px;
+    background: #DAA520;
+    color: #ffeded;
+    padding: 2px 5px 3px 5px;
+    border-radius: 4px;
+}
+#login .odd-section, #register .odd-section, #vendor .odd-section, #otp .odd-section{ 
+    min-height: 100vh;
+    text-align: center;
+    /* padding-top: 77px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.align-right{
+    text-align: right !important;
+    display: block;
+    width: 100%;
+}
+.align-left{
+    text-align: left !important;
+    display: block;
+    width: 100%;
+}
+.credential-form{ 
+    color: #fff;
+}
+.br-0{
+    border-radius: 5px 0px 0px 5px;
+}
+.decor-underline{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.qr-image{
+    width: 100%;
+    height: 128px;
+    /* border: 1px solid #f1f1f1; */
+    justify-content: center;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+/* //new */
+.navbar-expand-sm .navbar-nav .nav-link{
+    color: #000!important;
+}
+.gradient-text{
+    opacity: 0.9;
+    display: inline-block;
+    font-weight: 500;
+    background-image:linear-gradient(90deg, #87c1c9, #8d51e7);
+    /* background-image:linear-gradient(90deg,#ff9a44,#ff4e50); */
+    background-size: cover;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-size: 35px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+.bg-gradient { 
+    background: #6a9ba0;
+    background: linear-gradient(132deg, #87c1c9, #8d51e7)!important;
+    margin-top: 60px;
+    /* background: linear-gradient(132deg, #6a9ba0, #96d4dd 80%, #a0e1eb)!important; */
+} 
+.banner-text h2, .banner-text-2 h2{
+    color: #fff;
+    font-size: 30px;
+    text-shadow: 0 2px 8px rgba(0,0,0,.2);
+}
+.banner-text p{
+    color: #fff;
+    font-size: 18px;
+    text-shadow: 0 2px 8px rgba(0,0,0,.2);
+    max-width: 400px;
+}
+.banner-text-auto{
+    min-height: 80px!important;
+}
+.banner-text{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 250px;
+}
+
+#services,#collections{
+    text-align: center;
+    padding: 60px 20px;
+}
+#wed-copy-img, #copy-img{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    text-decoration: none;
+    /* background: #f1f1f1; */
+    cursor: pointer;
+    position: relative;
+}
+#services .card-title{ 
+    font-size: 20px;
+    text-shadow: 0 2px 8px rgba(0,0,0,.2);
+}
+#collections .card-title{ 
+    font-size: 20px;
+    text-shadow: 0 2px 8px rgba(0,0,0,.2);
+}
+nav{
+    background: #ffff;
+    box-shadow: 0px 0px 20px rgb(0 0 0 / 20%);
+}
+.upload-title{
+    font-size: 14px!important;
+    font-weight: 500!important;
+    margin-bottom: 7px;
+}
+#invDemoInformation .info_title, #invDemoInformation .info_value{
+    font-size: 14px;
+}
+/* Form Start */
+#form, #wed-form{ 
+    padding: 30px;
+    box-shadow: 0px 0px 20px rgb(0 0 0 / 26%);
+    margin: 30px auto;
+    margin-top: 90px;
+    border-radius: 10px;
+    background: #fff;
+
+}
+#form .form-label, #wed-form .form-label{
+    font-size: 14px;
+    font-weight: 400;
+    color: #a79b9b;
+    margin-top: 7px;
+}
+#invitation-from, #wed-invitation-from{
+    /* max-width: 600px; */
+    margin: auto;
+}
+#invitation-from .input-group-text, #wed-invitation-from .input-group-text {
+    background: #d5deff!important;
+    color: #000!important;
+}
+.fs-mid{
+    font-size: 14px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.form-check{
+    padding-left:0px!important;
+    display: flex;
+    align-items: center;
+}
+.form-check-input{
+    width: 20px;
+    height: 20px;
+    border-radius: 0px!important;
+    margin-left:12px!important;
+}
+.form-check-input{
+    border: 1px solid #0d6efd;
+}
+#invInformation .modal-body, #wed-invInformation .modal-body{
+    text-align: center;
+}
+#invInformation .modal-body img, #wed-invInformation .modal-body img{
+    width:200px;
+    margin-bottom: 20px;
+}
+#invInformation #copy-btn, #wed-invInformation #copy-btn{
+    cursor: pointer;
+}
+.card-content{
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 400;
+    margin-top: 10px;
+}
+/* Form end */
+
+/* footer start */
+.footer-main{
+    padding-top: 90px;
+}
+
+.address-main > div.col-lg-4 {
+    border-bottom: dotted 1px #999;
+}
+.address-box {
+    padding: 10px 0;
+    margin-bottom: 30px;
+}
+.add-icon{
+    float: left;
+    width: 60px;
+    display: inline-block;
+    padding: 0px 5px;
+}
+.address-box .add-icon {
+    background: #27303b;
+    height: 75px;
+    line-height: 75px;
+    width: 75px;
+    margin-right: 20px;
+    text-align: center;
+}
+.add-icon img{
+    width: 100%;
+}
+.address-box .add-icon img {
+    max-width: 40px;
+}
+.add-content{
+    padding-left: 70px;
+}
+.add-content h5 {
+    font-size: 17px;
+    color: #ffffff;
+    padding: 0;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.add-content p {
+    font-size: 13px;
+    color: #999999;
+    font-weight: 300;
+}
+.add-content p a{
+    font-size: 14px;
+    color: #999999;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+.add-content p a:hover{
+    color: #ffb32d;
+}
+.footer-main{
+    padding-top: 90px;
+}
+
+.address-main > div.col-lg-4 {
+    border-bottom: dotted 1px #999;
+}
+.address-box {
+    padding: 10px 0;
+    margin-bottom: 30px;
+}
+.add-icon{
+    float: left;
+    width: 60px;
+    display: inline-block;
+    padding: 0px 5px;
+}
+.address-box .add-icon {
+    background: #27303b;
+    height: 75px;
+    line-height: 75px;
+    width: 75px;
+    margin-right: 20px;
+    text-align: center;
+}
+.add-icon img{
+    width: 100%;
+}
+.address-box .add-icon img {
+    max-width: 40px;
+}
+.add-content{
+    padding-left: 70px;
+}
+.add-content h5 {
+    font-size: 17px;
+    color: #ffffff;
+    padding: 0;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.add-content p {
+    font-size: 13px;
+    color: #999999;
+    font-weight: 300;
+}
+.add-content p a{
+    font-size: 14px;
+    color: #999999;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+.add-content p a:hover{
+    color: #ffb32d;
+}
+/* footer end */
+
+/*  add favotite functionality start */
+.fav {
+    background-position: left;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    display: inline-block;
+  }
+  .fav:hover, .fav.active {
+    background-position: right;
+  }
+  
+  .fav-heart {
+    background-image: url("https://cssanimation.rocks/images/posts/steps/heart.png");
+    background-size: auto 50px;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    z-index: 10;
+  }
+  .fav-heart.is-animating {
+    -webkit-animation: zoetrope 0.8s steps(28) 1;
+            animation: zoetrope 0.8s steps(28) 1;
+  }
+  
+  @-webkit-keyframes zoetrope {
+    from {
+      background-position: left;
+    }
+    to {
+      background-position: right;
+    }
+  }
+  
+  @keyframes zoetrope {
+    from {
+      background-position: left;
+    }
+    to {
+      background-position: right;
+    }
+  }
+/*  add favotite functionality end */
+
+
+@media screen and (min-width:678px) { 
+    .mobileView{
+        display: none!important;
+    }
+}
+
+/* Mobile Responsive start */
+@media screen and (max-width:678px) {
+    footer, .pcView{
+        display: none!important;
+    }
+    .page_title {
+        position: relative;
+        padding-top: 60px;
+        border-bottom: 1px solid #eee !important;
+    }
+    .page_title .back_arrow {
+        position: absolute;
+        bottom: 5px; 
+        z-index: 10;
+        padding: 2px 20px;
+        font-size: 18px; 
+        left: -4px;
+    }
+    .page_title p {  
+        margin: 0;
+        color: #000;
+        font-size: 16px;
+        font-weight: 600;
+        text-align: center;
+        padding: 10px;
+        background: #fefefe;
+        position: relative;
+        width: 100%;
+        box-shadow: 0px 0px 20px rgb(0 0 0 / 2%);
+        z-index: 9;
+        top: 0px;
+        height: 42px;
+    }
+    #weddingform .form-control, #businesscardsform .form-control{
+        display: block!important;
+        width: 100%!important;
+        border-radius: 0px !important;
+    }
+    #weddingform .input-group-text, #businesscardsform .input-group-text{
+        display: block!important;
+        width: 100%!important;
+        text-align: left;
+        border-radius: 0px !important;
+    }
+    body{
+        position: relative!important;
+        padding-bottom: 40px;
+        background: #fff;
+    }
+    .odd-section{ 
+        background: #fff!important;
+    }
+    #services .card-title{
+        font-size: 15px;
+    }
+    #services, #collections{
+        padding: 20px 20px 0px 20px;
+    }
+    .gradient-text{
+        font-size: 27px;
+    }
+    .threed-card-img{
+        width: 80px;
+    } 
+    .bottom-menu{
+        position: fixed;
+        bottom: 0px;
+        margin: 0px;
+        text-decoration: none;
+        background: #fff;
+        list-style: none;
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+        padding: 9px 0px;
+        box-shadow: 0px 0px 20px rgb(0 0 0 / 29%);
+        z-index: 9;
+    }
+    .bottom-menu i{ 
+        font-size: 18px; 
+    }
+    .bottom-menu li{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color:#72899e;
+        font-size: 12px;
+    }
+    .bottom-menu li.active, [active-page="home"] .home-page, [active-page="profile"] .profile-page,
+    [active-page="savedinvitationcards"] .sic-page, [active-page="mybusinesscards"] .mbc-page{
+        color:#000!important;
+    }
+    #page{
+        overflow: hidden!important;
+    }
+    [active-page="register"] ul.bottom-menu, [active-page="login"] ul.bottom-menu, 
+    [active-page="vendor"] ul.bottom-menu, [active-page="otp"] ul.bottom-menu{
+        display: none;
+    }
+    .bg-gradient{
+        background: #fff!important;
+    }
+    .banner-text h2, .banner-text-2 h2{
+        color: #000;
+    }
+}
+/* Mobile Responsive end */

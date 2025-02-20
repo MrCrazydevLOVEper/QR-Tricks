@@ -1,0 +1,332 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-07-29 13:10:27 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:10:35 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\projects\invitation-maker\admin\application\models\AdminModel.php 21
+ERROR - 2024-07-29 13:10:35 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 13:10:35 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 13:10:35 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 13:10:35 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:10:36 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 13:10:36 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:10:46 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:10:46 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:10:52 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:10:52 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:18:15 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:18:15 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:18:18 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 13:18:18 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 13:18:18 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 13:18:18 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:18:18 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:18:18 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 13:18:21 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:18:21 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:18:22 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:18:22 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:26:00 --> 404 Page Not Found: ThirdAxisCon/Invitation
+ERROR - 2024-07-29 13:26:04 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 13:26:04 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 13:26:04 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 13:26:04 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:26:04 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 13:26:04 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:26:09 --> 404 Page Not Found: AdminController/logout
+ERROR - 2024-07-29 13:26:26 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 13:26:26 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 13:26:26 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 13:26:26 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:26:26 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:26:26 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 13:27:20 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 13:27:20 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 13:27:20 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 13:27:20 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:27:20 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:27:20 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 13:28:00 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:28:00 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:28:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:28:17 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\projects\invitation-maker\admin\application\models\AdminModel.php 21
+ERROR - 2024-07-29 13:28:17 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 13:28:17 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 13:28:17 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 13:28:17 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:28:17 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 13:28:17 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:28:28 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:28:28 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:28:28 --> 404 Page Not Found: ThirdAxisCon/getUsers
+ERROR - 2024-07-29 13:28:31 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:28:31 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:28:31 --> 404 Page Not Found: ThirdAxisCon/getInvitation
+ERROR - 2024-07-29 13:28:32 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:28:32 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:28:32 --> 404 Page Not Found: ThirdAxisCon/getUsers
+ERROR - 2024-07-29 13:28:38 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 13:28:38 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 13:28:38 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 13:28:38 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 13:28:39 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 13:28:39 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 13:28:46 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:28:46 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:28:46 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 13:28:46 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 13:28:46 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 13:28:46 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 13:28:47 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 13:28:47 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 13:28:47 --> 404 Page Not Found: ThirdAxisCon/getUsers
+ERROR - 2024-07-29 13:29:19 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:29:19 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 13:29:19 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:29:19 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 13:29:19 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 13:29:19 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 13:29:19 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 13:29:19 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 13:29:28 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:29:28 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:29:28 --> 404 Page Not Found: ThirdAxisCon/getInvitation
+ERROR - 2024-07-29 13:29:31 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:29:31 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:29:35 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 13:29:35 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 13:29:35 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 13:29:35 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:29:35 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:29:35 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 13:29:42 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:29:42 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:29:44 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:29:44 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:41:03 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:41:03 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:41:04 --> 404 Page Not Found: AdminController/userInvitation
+ERROR - 2024-07-29 13:42:00 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:42:00 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 13:42:02 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 13:42:02 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:37:21 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:37:34 --> Severity: Notice --> Undefined index: username C:\xampp\htdocs\projects\invitation-maker\admin\application\models\AdminModel.php 21
+ERROR - 2024-07-29 18:37:35 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 18:37:35 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 18:37:35 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 18:37:35 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:37:35 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:37:35 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 18:37:38 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:37:38 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:41:13 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:41:13 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:41:16 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:41:16 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:41:20 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:41:20 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:41:52 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:41:52 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:44:44 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:44:44 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:45:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:45:08 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:50:58 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:50:58 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:52:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:52:08 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:52:32 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:52:32 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:54:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:54:09 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:55:23 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:55:23 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 18:55:24 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 18:55:24 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 19:21:27 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 19:21:27 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 19:21:27 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 19:21:27 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 19:21:27 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 19:21:27 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 19:22:08 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 19:22:08 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 19:58:28 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 19:58:28 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 19:58:28 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 19:58:28 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 19:58:28 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 19:58:28 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 19:58:30 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 19:58:30 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 19:58:30 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 19:58:30 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 19:58:31 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 19:58:31 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 19:58:31 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 19:58:31 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:01:54 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:01:54 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:01:55 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:01:55 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:01:55 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:01:57 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:01:57 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:01:58 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:02:39 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:02:39 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:02:39 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:02:39 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:02:39 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:02:39 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:02:39 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:02:39 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:03:20 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:03:20 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:03:52 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:03:52 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:04:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:04:09 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:04:19 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:04:19 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:06:06 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:06:06 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:06:14 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:06:14 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:06:18 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:06:18 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:06:18 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:06:18 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:06:18 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:06:18 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:06:26 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:06:26 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:06:26 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:06:26 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:06:26 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:06:26 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:06:26 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:06:26 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:06:42 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:06:42 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:06:43 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:06:43 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:06:43 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:06:43 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:06:43 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:06:43 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:06:53 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:06:53 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:06:53 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:06:53 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:06:53 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:06:53 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:06:53 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:06:53 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:07:29 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:07:29 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:07:30 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:07:30 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:07:30 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:07:30 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:07:30 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:07:30 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:08:41 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:08:41 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:08:41 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:08:41 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:08:41 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:08:42 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:08:42 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:08:42 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:09:11 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:09:11 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:09:11 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:09:11 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:09:11 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:09:11 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:09:11 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:09:11 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:11:43 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:11:43 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:12:00 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:12:00 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:12:11 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:12:11 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:13:52 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:13:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:13:52 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:13:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:13:52 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:13:52 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:13:53 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:13:53 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:13:53 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:13:53 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:13:53 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:13:54 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:13:54 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:13:54 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:14:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:14:09 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:14:09 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:14:09 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:14:09 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:14:09 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:14:09 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:14:09 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:15:23 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:15:23 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:15:23 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:15:23 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:15:23 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:15:23 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:15:23 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:15:23 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:15:33 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:15:33 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:15:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:15:33 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:15:33 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:15:33 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:15:33 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:15:33 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:16:03 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:16:03 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:16:03 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:16:03 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:16:03 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:16:03 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:16:03 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:16:03 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:16:42 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:16:42 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:16:42 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:16:42 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:16:42 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:16:42 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:17:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:17:09 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:17:09 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:17:09 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:17:09 --> 404 Page Not Found: Assets/css
+ERROR - 2024-07-29 20:17:09 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:17:10 --> 404 Page Not Found: Assets/libs
+ERROR - 2024-07-29 20:17:10 --> 404 Page Not Found: Assets/js
+ERROR - 2024-07-29 20:18:36 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:18:36 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:18:51 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:18:51 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:19:39 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:19:39 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:19:40 --> Severity: Notice --> Undefined index: paid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 156
+ERROR - 2024-07-29 20:19:40 --> Severity: Notice --> Undefined index: partially C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 176
+ERROR - 2024-07-29 20:19:40 --> Severity: Notice --> Undefined index: unpaid C:\xampp\htdocs\projects\invitation-maker\admin\application\views\dashboard.php 196
+ERROR - 2024-07-29 20:19:40 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:19:40 --> 404 Page Not Found: Custom/Main_Category1.js
+ERROR - 2024-07-29 20:19:40 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:19:41 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:19:41 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:19:42 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:19:42 --> 404 Page Not Found: Custom/getnotification.js
+ERROR - 2024-07-29 20:19:43 --> 404 Page Not Found: Assets/images
+ERROR - 2024-07-29 20:19:43 --> 404 Page Not Found: Custom/getnotification.js

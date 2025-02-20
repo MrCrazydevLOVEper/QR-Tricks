@@ -1,0 +1,183 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-26 06:04:35 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:04:56 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:05:53 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:06:05 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:06:14 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 06:07:18 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:07:57 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 06:08:02 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:08:12 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:08:20 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:08:25 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:08:39 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:08:48 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 06:08:57 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 06:09:01 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 06:11:39 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:12:20 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:12:23 --> Severity: Notice --> Undefined variable: result C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\views\MainDepartment.php 89
+ERROR - 2021-07-26 06:12:23 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\views\MainDepartment.php 89
+ERROR - 2021-07-26 06:12:24 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:12:32 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:13:04 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:13:58 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 06:14:58 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 06:15:04 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:15:30 --> Severity: Notice --> Undefined variable: result C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\views\MainDepartment.php 89
+ERROR - 2021-07-26 06:15:30 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\views\MainDepartment.php 89
+ERROR - 2021-07-26 06:15:32 --> Severity: Notice --> Undefined variable: result C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\views\MainDepartment.php 89
+ERROR - 2021-07-26 06:15:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\views\MainDepartment.php 89
+ERROR - 2021-07-26 06:15:33 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:15:38 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:15:49 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:16:30 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:16:34 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:33:29 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:35:30 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:35:35 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:35:42 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 06:40:38 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 08:27:01 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 08:27:34 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 08:28:28 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 08:28:32 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 08:29:10 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 08:29:17 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 08:29:22 --> Severity: Notice --> Undefined variable: result C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\views\MainDepartment.php 89
+ERROR - 2021-07-26 08:29:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\views\MainDepartment.php 89
+ERROR - 2021-07-26 08:29:43 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 08:29:51 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 08:29:56 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 08:34:11 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 08:34:52 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 08:34:52 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 08:34:52 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 08:34:52 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 08:34:52 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 08:34:52 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 09:02:50 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 09:02:50 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 09:02:50 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 09:02:50 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 09:02:51 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 09:02:51 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 09:02:51 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 09:04:33 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 09:04:49 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 09:05:00 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 09:05:33 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 09:07:51 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:13:19 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:13:20 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 10:13:20 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 10:13:20 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 10:13:20 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 10:13:20 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 10:13:20 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 10:13:33 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:13:41 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:14:51 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:15:35 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:16:53 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:16:58 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:26:01 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:27:09 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:27:47 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:27:58 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:41:54 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:42:22 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:42:28 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:43:53 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:44:00 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:44:04 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:44:22 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:44:30 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:45:13 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:45:18 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:45:46 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:45:49 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:45:54 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:45:57 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:46:01 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:46:46 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:47:08 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:47:15 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:47:21 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:47:50 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:47:57 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:48:05 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:48:10 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:48:31 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:49:21 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:52:40 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:53:19 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 10:55:25 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:55:34 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:56:10 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 10:57:32 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:08:59 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:09:44 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:10:12 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 11:10:12 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 11:10:12 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 11:10:12 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 11:10:12 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 11:10:12 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 11:10:18 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:10:18 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 11:10:18 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 11:10:18 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 11:10:19 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 11:10:19 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 11:10:19 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 11:12:51 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:13:44 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 11:13:44 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 11:13:44 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 11:13:44 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 11:13:44 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 11:13:44 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 11:26:33 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:26:34 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 11:26:34 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 11:26:34 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 11:26:34 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 11:26:34 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 11:26:34 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 11:26:42 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:38:45 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:38:51 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:38:53 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:41:35 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:41:48 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:43:02 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:43:34 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:43:36 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:43:57 --> Severity: Notice --> A non well formed numeric value encountered C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\models\AdminModel.php 2589
+ERROR - 2021-07-26 11:43:57 --> Severity: Notice --> Undefined offset: 0 C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\models\AdminModel.php 2632
+ERROR - 2021-07-26 11:43:57 --> Severity: Notice --> Trying to access array offset on value of type null C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\models\AdminModel.php 2632
+ERROR - 2021-07-26 11:43:57 --> Severity: Notice --> Undefined offset: 0 C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\models\AdminModel.php 2632
+ERROR - 2021-07-26 11:43:57 --> Severity: Notice --> Trying to access array offset on value of type null C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\models\AdminModel.php 2632
+ERROR - 2021-07-26 11:43:57 --> Severity: Notice --> Undefined offset: 0 C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\models\AdminModel.php 2632
+ERROR - 2021-07-26 11:43:57 --> Severity: Notice --> Trying to access array offset on value of type null C:\Appteq\htdocs\project\0_react\yallabasket\webcrmpanel\application\models\AdminModel.php 2632
+ERROR - 2021-07-26 11:44:27 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:44:47 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 11:47:30 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 14:54:52 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 14:54:56 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 14:55:21 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 14:55:28 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 14:56:11 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 14:56:11 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 14:56:11 --> 404 Page Not Found: Assets/libs
+ERROR - 2021-07-26 14:56:11 --> 404 Page Not Found: Assets/js
+ERROR - 2021-07-26 14:56:11 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 14:56:11 --> 404 Page Not Found: Assets/css
+ERROR - 2021-07-26 15:01:22 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 15:01:25 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 15:02:09 --> 404 Page Not Found: Assets/images
+ERROR - 2021-07-26 15:05:01 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 15:07:18 --> 404 Page Not Found: AdminController/assets
+ERROR - 2021-07-26 15:07:43 --> 404 Page Not Found: Assets/images
